@@ -3,7 +3,7 @@ title: 'Chapter Title Here'
 description: 'Chapter description goes here.'
 ---
 
-## Example coding exercise
+## Introduction to MongoDB - Exercises
 
 ```yaml
 type: NormalExercise
@@ -43,7 +43,7 @@ This is an example exercise.
 
 ---
 
-## Insert exercise title here
+## Introduction to MongoDB
 
 ```yaml
 type: VideoExercise
