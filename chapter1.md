@@ -13,10 +13,10 @@ xp: 100
 skills: 2
 ```
 
-This is an example exercise.
+This is an example exercise to practice with MongoDB
 
 `@instructions`
-
+Insert data into Collections and retrieve the information making queries.
 
 `@hint`
 
